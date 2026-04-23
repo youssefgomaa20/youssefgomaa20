@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=160&section=header&text=Youssef%20Gomaa&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F7FF&text=Youssef%20Gomaa&height=80&fontSize=35" />
 </p>
 
 <h3 align="center"> AI Engineer | Data Science | Machine Learning </h3>
