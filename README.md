@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F7FF&text=Youssef%20Gomaa 🤖&height=80&fontSize=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=160&section=header&text=Youssef%20Gomaa&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center"> AI Engineer | Data Science | Machine Learning </h3>
@@ -21,41 +21,13 @@
 ## 🧠 About Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=420&lines=AI+Engineer;Machine+Learning;Data+Science" />
+
+🚀 AI Engineer focused on solving real-world problems  
+📊 Strong foundation in Machine Learning & Data Science  
+⚡ Building scalable and efficient AI systems  
+📚 Continuously improving in Deep Learning  
+
 </p>
-
-<table align="center">
-<tr>
-<td align="center">
-
-🚀 <strong>AI Engineer</strong><br/>
-Focused on real-world solutions  
-
-</td>
-<td align="center">
-
-📊 <strong>Machine Learning & Data Science</strong><br/>
-Strong analytical and data-driven mindset  
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-⚡ <strong>Scalable Systems</strong><br/>
-Building efficient AI applications  
-
-</td>
-<td align="center">
-
-📚 <strong>Continuous Learning</strong><br/>
-Improving in Deep Learning  
-
-</td>
-</tr>
-</table>
----
 
 <!-- ================= SKILLS ================= -->
 
@@ -66,18 +38,6 @@ Improving in Deep Learning
 </p>
 
 ---
-
-<!-- ================= WHAT I DO ================= -->
-
-## ⚡ What I Do
-
-* 🧠 Machine Learning Models
-* 📊 Data Analysis & Visualization
-* 🤖 AI Systems (Prediction & Automation)
-* 🌐 Full Stack Development
-
----
-
 <!-- ================= SOCIAL ================= -->
 
 ## 🌍 Connect With Me
