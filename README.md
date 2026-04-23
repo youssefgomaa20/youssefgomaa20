@@ -21,15 +21,11 @@
 ## 🧠 About Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=420&lines=AI+Engineer;Machine+Learning;Data+Science" />
-</p>
 
-<p align="center">
-  
-✨ AI Engineer focused on real-world solutions  
-📊 Strong in Machine Learning & Data Science  
-⚡ Building scalable and efficient AI systems  
-📚 Improving in Deep Learning  
+🚀 AI Engineer → Real-world solutions  
+📊 Machine Learning & Data Science  
+⚡ Scalable AI systems  
+📚 Deep Learning journey  
 
 </p>
 ---
