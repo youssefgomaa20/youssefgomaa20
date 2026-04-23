@@ -1,13 +1,13 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F7FF&text=Youssef%20Gomaa&height=80&fontSize=35" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F7FF&text=Youssef%20Gomaa 🤖&height=80&fontSize=35" />
 </p>
 
 <h3 align="center"> AI Engineer | Data Science | Machine Learning </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+Specialist;Data+Science" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+ Data+Science" />
 </p>
 
 <p align="center">
@@ -21,13 +21,40 @@
 ## 🧠 About Me  
 
 <p align="center">
-
-🚀 AI Engineer → Real-world solutions  
-📊 Machine Learning & Data Science  
-⚡ Scalable AI systems  
-📚 Deep Learning journey  
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=420&lines=AI+Engineer;Machine+Learning;Data+Science" />
 </p>
+
+<table align="center">
+<tr>
+<td align="center">
+
+🚀 <strong>AI Engineer</strong><br/>
+Focused on real-world solutions  
+
+</td>
+<td align="center">
+
+📊 <strong>Machine Learning & Data Science</strong><br/>
+Strong analytical and data-driven mindset  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+⚡ <strong>Scalable Systems</strong><br/>
+Building efficient AI applications  
+
+</td>
+<td align="center">
+
+📚 <strong>Continuous Learning</strong><br/>
+Improving in Deep Learning  
+
+</td>
+</tr>
+</table>
 ---
 
 <!-- ================= SKILLS ================= -->
