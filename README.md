@@ -4,10 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F7FF&text=Youssef%20Gomaa&height=80&fontSize=35" />
 </p>
 
-<h3 align="center">AI Engineer | Data Science | ML Engineer </h3>
+<h3 align="center"> AI Engineer | Data Science | Machine Learning </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+Specialist;Data+Scientist" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+Specialist;Data+Science" />
 </p>
 
 <p align="center">
@@ -18,15 +18,20 @@
 
 <!-- ================= ABOUT ================= -->
 
-## 🧠 About Me
+## 🧠 About Me  
 
-```diff id="about1"
-+ AI Engineer focused on real-world solutions  
-+ Strong in Machine Learning & Data Science  
-+ Building clean and scalable AI systems  
-! Currently improving Deep Learning skills  
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=420&lines=AI+Engineer;Machine+Learning;Data+Science" />
+</p>
 
+<p align="center">
+  
+✨ AI Engineer focused on real-world solutions  
+📊 Strong in Machine Learning & Data Science  
+⚡ Building scalable and efficient AI systems  
+📚 Improving in Deep Learning  
+
+</p>
 ---
 
 <!-- ================= SKILLS ================= -->
