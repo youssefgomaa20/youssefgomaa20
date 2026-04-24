@@ -20,37 +20,26 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="140"/>
 </p>
 
-<!-- ================= About Me ================= -->
-
-<!-- ================= About Me ================= -->
+<!-- ================= ABOUT ================= -->
 
 ## 🧠 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+Specialist;Data+Science+Enthusiast" />
-</p>
+* 🤖 AI Engineer passionate about solving real-world problems
+* 📊 Skilled in Data Science & Machine Learning
+* 💻 Strong background in Python & Web Development
+* 🚀 Building intelligent systems and AI applications
+* 📚 Currently learning Deep Learning & System Design
 
-<p align="center">
+---
 
-🤖 <strong>AI Engineer</strong><br/>
-Building intelligent systems powered by real-world data
+<!-- ================= WHAT I DO ================= -->
 
-<br/>
+## ⚡ What I Do
 
-📊 <strong>Data Science</strong><br/>
-Transforming complex data into clear, actionable insights
-
-<br/>
-
-⚡ <strong>Machine Learning</strong><br/>
-Designing scalable and high-performance predictive models
-
-<br/>
-
-📚 <strong>Deep Learning</strong><br/>
-Continuously exploring advanced AI technologies
-
-</p>
+* 🧠 Machine Learning Models
+* 📊 Data Analysis & Visualization
+* 🤖 AI Systems (Chatbots, Prediction Models)
+* 🌐 Full Stack Development
 
 ---
 
@@ -59,15 +48,39 @@ Continuously exploring advanced AI technologies
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://wa.me/201150187774">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="https://wa.me/20YOURNUMBER">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp"/>
   </a>
-  <a href="https://www.facebook.com/youssefgomaa55">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://facebook.com/YOUR_PROFILE">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook"/>
   </a>
-  <a href="https://www.linkedin.com/in/youssef-gomaa11/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
+</p>
+
+---
+
+<!-- ================= SKILLS ================= -->
+
+## 🛠️ Tech Stack
+
+### 🧠 AI & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+</p>
+
+### 📊 Data Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
 
 ---
@@ -77,8 +90,8 @@ Continuously exploring advanced AI technologies
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefgomaa20&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefgomaa20&theme=github-dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefgomaa20&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefgomaa20&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -88,37 +101,50 @@ Continuously exploring advanced AI technologies
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefgomaa20&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefgomaa20&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-<!-- ================= EXTRA TOUCH ================= -->
+<!-- ================= PROJECTS ================= -->
 
-## ⚡ What I Focus On
+## 🚀 Featured Projects
 
-<p align="center">
+### 🤖 AI Chatbot
 
-🧠 AI Systems & Intelligent Applications
-📊 Data Analysis & Insights
-⚡ Machine Learning Models
-🚀 Real-world Problem Solving
-
-</p>
+* NLP-based chatbot
+* Smart real-time responses
 
 ---
 
-<!-- ================= FOOTER ================= -->
+### 📊 Data Analysis Project
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=110&section=footer"/>
-</p>
+* Data cleaning & visualization
+* Extracting insights
 
 ---
+
+### 🧠 Machine Learning Model
+
+* Predictive model using Scikit-learn
+* Optimized for accuracy
+
+---
+
+<!-- ================= GOALS ================= -->
+
+## 🎯 Current Goals
+
+* 🔥 Build strong AI projects
+* 💼 Get AI/Data Science internship
+* 📚 Master Deep Learning
+
+---
+
+<!-- ================= END ================= -->
 
 ## ⭐ Support
 
-<p align="center">
-  ⭐ If you like my work, consider following me 🚀
-</p>
+If you like my work, give a ⭐ and follow 🚀
+
 
