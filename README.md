@@ -24,51 +24,18 @@
 
 ## 🧠 About Me   
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+Specialist;Data+Science+Enthusiast" />
-</p>
+🤖 **AI Engineer**
+Creating intelligent systems powered by real-world data
 
-<p align="center">
+📊 **Data Science**
+Turning complex data into clear, actionable insights
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=80&section=header&text=🚀%20AI%20Engineer&fontSize=20&fontColor=ffffff"/>
+⚡ **Machine Learning**
+Building scalable and high-performance predictive models
 
-<br/>
+📚 **Deep Learning**
+Continuously exploring advanced AI and neural networks
 
-<span>Building intelligent systems & solving real-world problems</span>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077FF,100:000000&height=80&section=header&text=📊%20Data%20Science&fontSize=20&fontColor=ffffff"/>
-
-<br/>
-
-<span>Transforming data into actionable insights</span>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,100:000000&height=80&section=header&text=⚡%20Machine%20Learning&fontSize=20&fontColor=ffffff"/>
-
-<br/>
-
-<span>Building scalable and efficient ML models</span>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9800,100:000000&height=80&section=header&text=📚%20Deep%20Learning&fontSize=20&fontColor=ffffff"/>
-
-<br/>
-
-<span>Continuously improving AI knowledge</span>
-
-</p>
-
-<!-- ================= SKILLS ================= -->
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,html,css,cpp" />
-</p>
 
 ---
 <!-- ================= SOCIAL ================= -->
