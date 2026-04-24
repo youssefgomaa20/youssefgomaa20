@@ -70,20 +70,6 @@
 
 </td>
 
-<td align="center" width="45%">
-
-<img src="https://img.shields.io/badge/📚-Continuous%20Learning-FF9800?style=for-the-badge"/>
-
-<br/><br/>
-
-<span>Exploring Deep Learning & advanced AI</span>
-
-</td>
-
-</tr>
-
-</table>
-
 <!-- ================= SOCIAL ================= -->
 
 ## 🌍 Connect With Me
@@ -107,7 +93,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,js,html,css,c++" />
+  <img src="https://skillicons.dev/icons?i=python,c++,js,html,css," />
 </p>
 
 ---
