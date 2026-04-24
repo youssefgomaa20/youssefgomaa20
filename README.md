@@ -68,7 +68,9 @@
 
 <span>Building scalable and efficient ML models</span>
 
-</td>
+</tr>
+
+</table>
 
 <!-- ================= SOCIAL ================= -->
 
