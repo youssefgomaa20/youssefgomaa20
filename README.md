@@ -69,25 +69,46 @@
 ## 🌍 Connect With Me  
 
 <p align="center">
-  <sub>🤖 Open for AI Opportunities • Let’s Connect</sub>
+  <sub>🤖 Open for AI & Data Science Opportunities</sub>
 </p>
 
-<p align="center">
+<table align="center">
+<tr>
 
+<td align="center" width="25%">
 <a href="https://wa.me/201150187774">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/-WhatsApp-0A0A0A?style=for-the-badge&logo=whatsapp&logoColor=00F7FF"/>
+<br/>
+<sub>Chat</sub>
 </a>
+</td>
 
+<td align="center" width="25%">
 <a href="https://www.facebook.com/youssefgomaa55">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Facebook-0A0A0A?style=for-the-badge&logo=facebook&logoColor=00F7FF"/>
+<br/>
+<sub>Profile</sub>
 </a>
+</td>
 
+<td align="center" width="25%">
 <a href="https://www.linkedin.com/in/youssef-gomaa11/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<br/>
+<sub>Connect</sub>
 </a>
+</td>
 
-</p>
----
+<td align="center" width="25%">
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/-Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
+<br/>
+<sub>Follow</sub>
+</a>
+</td>
+
+</tr>
+</table>
 
 <!-- ================= STATS ================= -->
 
