@@ -20,66 +20,31 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="140"/>
 </p>
 ---
-## 🧠 About Me  
+<!-- ================= About Me ================= -->
+
+## 🧠 About Me 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=450&lines=AI+Engineer;Machine+Learning+Specialist;Data+Science+Enthusiast" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssefgomaa20&theme=algolia&no-frame=true&row=1&column=4" />
+
+<!-- AI Engineer -->
+<img src="https://img.shields.io/badge/🚀%20AI%20Engineer-Smart%20Systems-0A0A0A?style=for-the-badge&logo=robot&logoColor=00F7FF&labelColor=000000&color=00F7FF"/>
+
+<!-- Data Science -->
+<img src="https://img.shields.io/badge/📊%20Data%20Science-Data%20Insights-0A0A0A?style=for-the-badge&logo=chartdotjs&logoColor=00F7FF&labelColor=000000&color=00F7FF"/>
+
+<br/><br/>
+
+<!-- Machine Learning -->
+<img src="https://img.shields.io/badge/⚡%20Machine%20Learning-ML%20Models-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=00F7FF&labelColor=000000&color=00F7FF"/>
+
+<!-- Learning -->
+<img src="https://img.shields.io/badge/📚%20Deep%20Learning-Always%20Improving-0A0A0A?style=for-the-badge&logo=python&logoColor=00F7FF&labelColor=000000&color=00F7FF"/>
+
 </p>
-
-<table align="center">
-<tr>
-
-<td align="center" width="45%">
-  
-<img src="https://img.shields.io/badge/🚀-AI%20Engineer-00F7FF?style=for-the-badge"/>
-
-<br/><br/>
-
-<span>Solving real-world problems with intelligent systems</span>
-
-</td>
-
-<td align="center" width="45%">
-
-<img src="https://img.shields.io/badge/📊-Data%20Science-0077FF?style=for-the-badge"/>
-
-<br/><br/>
-
-<span>Transforming data into meaningful insights</span>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="45%">
-
-<img src="https://img.shields.io/badge/⚡-Machine%20Learning-00C853?style=for-the-badge"/>
-
-<br/><br/>
-
-<span>Building scalable and efficient ML models</span>
-
-</td>
-
-<td align="center" width="45%">
-
-<img src="https://img.shields.io/badge/📚-Continuous%20Learning-FF9800?style=for-the-badge"/>
-
-<br/><br/>
-
-<span>Exploring Deep Learning & advanced AI</span>
-
-</td>
-
-</tr>
-
-</table>
 
 <!-- ================= SKILLS ================= -->
 
