@@ -68,28 +68,29 @@
 
 ## 🌍 Connect With Me  
 
-<p align="center">
+<table align="center">
+<tr>
 
+<td align="center">
 <a href="https://wa.me/201150187774">
-<img src="https://img.shields.io/badge/WhatsApp-Connect-000000?style=for-the-badge&logo=whatsapp&logoColor=00F7FF"/>
+<b>WhatsApp</b><br/>📱
 </a>
+</td>
 
+<td align="center">
 <a href="https://www.facebook.com/youssefgomaa55">
-<img src="https://img.shields.io/badge/Facebook-Connect-000000?style=for-the-badge&logo=facebook&logoColor=00F7FF"/>
+<b>Facebook</b><br/>🌐
 </a>
+</td>
 
+<td align="center">
 <a href="https://www.linkedin.com/in/youssef-gomaa11/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+<b>LinkedIn</b><br/>💼
 </a>
+</td>
 
-</p>
-<!-- ================= SKILLS ================= -->
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css," />
-</p>
+</tr>
+</table>
 
 ---
 
