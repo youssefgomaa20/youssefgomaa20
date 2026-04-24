@@ -69,44 +69,27 @@
 ## 🌍 Connect With Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=420&lines=Let's+Connect;Always+Open+for+Opportunities" />
+  <sub>Open for opportunities • Let's build something great</sub>
 </p>
 
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
+<p align="center">
 
 <a href="https://wa.me/201150187774">
-<img src="https://skillicons.dev/icons?i=discord" width="50"/>
-<br/><br/>
-<b>WhatsApp</b>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
 </a>
-
-</td>
-
-<td align="center" width="33%">
 
 <a href="https://www.facebook.com/youssefgomaa55">
-<img src="https://skillicons.dev/icons?i=facebook" width="50"/>
-<br/><br/>
-<b>Facebook</b>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
 </a>
-
-</td>
-
-<td align="center" width="33%">
 
 <a href="https://www.linkedin.com/in/youssef-gomaa11/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-<br/><br/>
-<b>LinkedIn</b>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-</td>
-
-</tr>
-</table>
+</p>
+<p align="center">
+  <sub>🤖 Open for AI & Data Science Opportunities</sub>
+</p>
 
 <!-- ================= SKILLS ================= -->
 
