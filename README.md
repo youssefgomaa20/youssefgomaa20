@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=160&section=header&text=Hi%20I'm%20Youssef%20Gomaa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+<h3 align="center">
+  🤖 AI Engineer | Data Science | Machine Learning
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Youssef+Gomaa;AI+Engineer+%F0%9F%A4%96;Machine+Learning+Building+Smart+Systems" />
@@ -23,25 +26,23 @@
 ## 🧠 About Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=400&lines=AI+Engineer;Machine+Learning;Data+Science" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=450&lines=AI+Engineer;Machine+Learning;Data+Science" />
 </p>
 
-<table>
+<table align="center">
 <tr>
 
-<td align="center" width="50%">
-  
-🚀 **AI Engineer**  
-<br/>
-Solving real-world problems  
+<td align="center" width="45%">
+
+<h3>🚀 AI Engineer</h3>
+<p><sub>Building real-world AI solutions</sub></p>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="45%">
 
-📊 **Data Science**  
-<br/>
-Data-driven insights  
+<h3>📊 Data Science</h3>
+<p><sub>Data-driven insights & analysis</sub></p>
 
 </td>
 
@@ -49,19 +50,17 @@ Data-driven insights
 
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="45%">
 
-⚡ **Machine Learning**  
-<br/>
-Smart scalable models  
+<h3>⚡ Machine Learning</h3>
+<p><sub>Smart predictive models</sub></p>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="45%">
 
-📚 **Learning**  
-<br/>
-Deep Learning journey  
+<h3>📚 Learning</h3>
+<p><sub>Deep Learning journey</sub></p>
 
 </td>
 
