@@ -69,28 +69,20 @@
 ## 🌍 Connect With Me  
 
 <p align="center">
-  <sub>Open for opportunities • Let's build something great</sub>
-</p>
-
-<p align="center">
 
 <a href="https://wa.me/201150187774">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-Connect-000000?style=for-the-badge&logo=whatsapp&logoColor=00F7FF"/>
 </a>
 
 <a href="https://www.facebook.com/youssefgomaa55">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-Connect-000000?style=for-the-badge&logo=facebook&logoColor=00F7FF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/youssef-gomaa11/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
 </p>
-<p align="center">
-  <sub>🤖 Open for AI & Data Science Opportunities</sub>
-</p>
-
 <!-- ================= SKILLS ================= -->
 
 ## 🛠️ Tech Stack
