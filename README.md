@@ -68,30 +68,25 @@
 
 ## 🌍 Connect With Me  
 
-<table align="center">
-<tr>
+<p align="center">
+  <sub>🤖 Open for AI Opportunities • Let’s Connect</sub>
+</p>
 
-<td align="center">
+<p align="center">
+
 <a href="https://wa.me/201150187774">
-<b>WhatsApp</b><br/>📱
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
 </a>
-</td>
 
-<td align="center">
 <a href="https://www.facebook.com/youssefgomaa55">
-<b>Facebook</b><br/>🌐
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
 </a>
-</td>
 
-<td align="center">
 <a href="https://www.linkedin.com/in/youssef-gomaa11/">
-<b>LinkedIn</b><br/>💼
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-</td>
 
-</tr>
-</table>
-
+</p>
 ---
 
 <!-- ================= STATS ================= -->
