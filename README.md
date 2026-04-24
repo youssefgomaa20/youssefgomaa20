@@ -19,7 +19,7 @@
 <!-- ================= ROBOT ANIMATION ================= -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="140"/>
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="140"/>
 </p>
 ---
 
