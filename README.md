@@ -4,10 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=160&section=header&text=Hi%20I'm%20Youssef%20Gomaa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">
-  🤖 AI Engineer | Data Science | Machine Learning
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Youssef+Gomaa;AI+Engineer+%F0%9F%A4%96;Machine+Learning+Building+Smart+Systems" />
 </p>
