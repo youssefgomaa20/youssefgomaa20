@@ -19,30 +19,46 @@
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="140"/>
 </p>
----
+
 <!-- ================= About Me ================= -->
 
-## 🧠 About Me 
+## 🧠 About Me   
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=450&lines=AI+Engineer;Machine+Learning+Specialist;Data+Science+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+Specialist;Data+Science+Enthusiast" />
 </p>
 
 <p align="center">
 
-<!-- AI Engineer -->
-<img src="https://img.shields.io/badge/🚀%20AI%20Engineer-Smart%20Systems-0A0A0A?style=for-the-badge&logo=robot&logoColor=00F7FF&labelColor=000000&color=00F7FF"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:000000&height=80&section=header&text=🚀%20AI%20Engineer&fontSize=20&fontColor=ffffff"/>
 
-<!-- Data Science -->
-<img src="https://img.shields.io/badge/📊%20Data%20Science-Data%20Insights-0A0A0A?style=for-the-badge&logo=chartdotjs&logoColor=00F7FF&labelColor=000000&color=00F7FF"/>
+<br/>
+
+<span>Building intelligent systems & solving real-world problems</span>
 
 <br/><br/>
 
-<!-- Machine Learning -->
-<img src="https://img.shields.io/badge/⚡%20Machine%20Learning-ML%20Models-0A0A0A?style=for-the-badge&logo=tensorflow&logoColor=00F7FF&labelColor=000000&color=00F7FF"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077FF,100:000000&height=80&section=header&text=📊%20Data%20Science&fontSize=20&fontColor=ffffff"/>
 
-<!-- Learning -->
-<img src="https://img.shields.io/badge/📚%20Deep%20Learning-Always%20Improving-0A0A0A?style=for-the-badge&logo=python&logoColor=00F7FF&labelColor=000000&color=00F7FF"/>
+<br/>
+
+<span>Transforming data into actionable insights</span>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,100:000000&height=80&section=header&text=⚡%20Machine%20Learning&fontSize=20&fontColor=ffffff"/>
+
+<br/>
+
+<span>Building scalable and efficient ML models</span>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9800,100:000000&height=80&section=header&text=📚%20Deep%20Learning&fontSize=20&fontColor=ffffff"/>
+
+<br/>
+
+<span>Continuously improving AI knowledge</span>
 
 </p>
 
