@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="140"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="140"/>
 </p>
 ---
 ## 🧠 About Me  
@@ -35,15 +35,21 @@
 
 <td align="center" width="45%">
   
-<h3>🚀 AI Engineer</h3>
-<p>Solving real-world problems with intelligent systems</p>
+<img src="https://img.shields.io/badge/🚀-AI%20Engineer-00F7FF?style=for-the-badge"/>
+
+<br/><br/>
+
+<span>Solving real-world problems with intelligent systems</span>
 
 </td>
 
 <td align="center" width="45%">
 
-<h3>📊 Data Science</h3>
-<p>Transforming data into meaningful insights</p>
+<img src="https://img.shields.io/badge/📊-Data%20Science-0077FF?style=for-the-badge"/>
+
+<br/><br/>
+
+<span>Transforming data into meaningful insights</span>
 
 </td>
 
@@ -53,15 +59,21 @@
 
 <td align="center" width="45%">
 
-<h3>⚡ Machine Learning</h3>
-<p>Building scalable and efficient ML models</p>
+<img src="https://img.shields.io/badge/⚡-Machine%20Learning-00C853?style=for-the-badge"/>
+
+<br/><br/>
+
+<span>Building scalable and efficient ML models</span>
 
 </td>
 
 <td align="center" width="45%">
 
-<h3>📚 Continuous Learning</h3>
-<p>Exploring Deep Learning & advanced AI</p>
+<img src="https://img.shields.io/badge/📚-Continuous%20Learning-FF9800?style=for-the-badge"/>
+
+<br/><br/>
+
+<span>Exploring Deep Learning & advanced AI</span>
 
 </td>
 
