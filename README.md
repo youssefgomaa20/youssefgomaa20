@@ -69,7 +69,7 @@
 ## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,cpp" />
 </p>
 
 <!-- ================= STATS ================= -->
