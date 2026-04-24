@@ -1,19 +1,27 @@
 <!-- ================= HEADER ================= -->
 
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F7FF&text=Youssef%20Gomaa&height=80&fontSize=35" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=160&section=header&text=Hi%20I'm%20Youssef%20Gomaa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center"> AI Engineer | Data Science | Machine Learning </h3>
+<h3 align="center">
+  🤖 AI Engineer | Data Science | Machine Learning
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+ Data+Science" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Youssef+Gomaa;AI+Engineer+%F0%9F%A4%96;Machine+Learning+Building+Smart+Systems" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=youssefgomaa20&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
+<!-- ================= ROBOT ANIMATION ================= -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="120"/>
+</p>
+ 
 ---
 
 <!-- ================= ABOUT ================= -->
