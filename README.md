@@ -19,7 +19,7 @@
 <!-- ================= ROBOT ANIMATION ================= -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="120"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="140"/>
 </p>
  
 ---
@@ -30,10 +30,44 @@
 
 <p align="center">
 
-🚀 AI Engineer focused on solving real-world problems  
-📊 Strong foundation in Machine Learning & Data Science  
-⚡ Building scalable and efficient AI systems  
-📚 Continuously improving in Deep Learning  
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🚀 AI Engineer  
+Focused on solving real-world problems  
+
+</td>
+
+<td align="center" width="50%">
+
+### 📊 Data Science  
+Strong in data analysis & insights  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### ⚡ Machine Learning  
+Building smart and scalable models  
+
+</td>
+
+<td align="center" width="50%">
+
+### 📚 Continuous Learning  
+Improving in Deep Learning  
+
+</td>
+
+</tr>
+
+</table>
 
 </p>
 
