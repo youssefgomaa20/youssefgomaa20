@@ -26,10 +26,6 @@
 ## 🧠 About Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=450&lines=AI+Engineer;Machine+Learning+Specialist;Data+Science+Enthusiast" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=youssefgomaa20&theme=algolia&no-frame=true&row=1&column=4" />
 </p>
 
@@ -38,7 +34,7 @@
 
 <td align="center" width="45%">
   
-<img src="https://img.shields.io/badge/🚀-AI%20Engineer-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀-AI%20-00F7FF?style=for-the-badge"/>
 
 <br/><br/>
 
