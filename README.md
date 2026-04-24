@@ -35,7 +35,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,html,css,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css," />
 </p>
 
 ---
