@@ -16,34 +16,34 @@
   <img src="https://komarev.com/ghpvc/?username=youssefgomaa20&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
-<!-- ================= ROBOT ANIMATION ================= -->
-
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="140"/>
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="140"/>
 </p>
- 
 ---
-
-<!-- ================= ABOUT ================= -->
-
 ## 🧠 About Me  
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=450&lines=AI+Engineer;Machine+Learning+Specialist;Data+Science+Enthusiast" />
+</p>
 
-<table>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=youssefgomaa20&theme=algolia&no-frame=true&row=1&column=4" />
+</p>
+
+<table align="center">
 <tr>
 
-<td align="center" width="50%">
-
-### 🚀 AI Engineer  
-Focused on solving real-world problems  
+<td align="center" width="45%">
+  
+<h3>🚀 AI Engineer</h3>
+<p>Solving real-world problems with intelligent systems</p>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="45%">
 
-### 📊 Data Science  
-Strong in data analysis & insights  
+<h3>📊 Data Science</h3>
+<p>Transforming data into meaningful insights</p>
 
 </td>
 
@@ -51,25 +51,23 @@ Strong in data analysis & insights
 
 <tr>
 
-<td align="center" width="50%">
+<td align="center" width="45%">
 
-### ⚡ Machine Learning  
-Building smart and scalable models  
+<h3>⚡ Machine Learning</h3>
+<p>Building scalable and efficient ML models</p>
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="45%">
 
-### 📚 Continuous Learning  
-Improving in Deep Learning  
+<h3>📚 Continuous Learning</h3>
+<p>Exploring Deep Learning & advanced AI</p>
 
 </td>
 
 </tr>
 
 </table>
-
-</p>
 
 <!-- ================= SKILLS ================= -->
 
