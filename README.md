@@ -22,22 +22,38 @@
 
 <!-- ================= About Me ================= -->
 
-## 🧠 About Me   
+<!-- ================= About Me ================= -->
 
-🤖 **AI Engineer**
-Creating intelligent systems powered by real-world data
+## 🧠 About Me
 
-📊 **Data Science**
-Turning complex data into clear, actionable insights
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+Specialist;Data+Science+Enthusiast" />
+</p>
 
-⚡ **Machine Learning**
-Building scalable and high-performance predictive models
+<p align="center">
 
-📚 **Deep Learning**
-Continuously exploring advanced AI and neural networks
+🤖 <strong>AI Engineer</strong><br/>
+Building intelligent systems powered by real-world data
 
+<br/>
+
+📊 <strong>Data Science</strong><br/>
+Transforming complex data into clear, actionable insights
+
+<br/>
+
+⚡ <strong>Machine Learning</strong><br/>
+Designing scalable and high-performance predictive models
+
+<br/>
+
+📚 <strong>Deep Learning</strong><br/>
+Continuously exploring advanced AI technologies
+
+</p>
 
 ---
+
 <!-- ================= SOCIAL ================= -->
 
 ## 🌍 Connect With Me
@@ -77,10 +93,25 @@ Continuously exploring advanced AI and neural networks
 
 ---
 
+<!-- ================= EXTRA TOUCH ================= -->
+
+## ⚡ What I Focus On
+
+<p align="center">
+
+🧠 AI Systems & Intelligent Applications
+📊 Data Analysis & Insights
+⚡ Machine Learning Models
+🚀 Real-world Problem Solving
+
+</p>
+
+---
+
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=110&section=footer"/>
 </p>
 
 ---
@@ -88,5 +119,6 @@ Continuously exploring advanced AI and neural networks
 ## ⭐ Support
 
 <p align="center">
-  ⭐ If you like my work, consider following me
+  ⭐ If you like my work, consider following me 🚀
 </p>
+
