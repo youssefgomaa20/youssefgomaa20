@@ -1,19 +1,17 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">🤖 Youssef Gomaa</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F7FF&text=Youssef%20Gomaa&height=80&fontSize=35" />
+</p>
 
-<h3 align="center">AI Engineer | Data Scientist | Machine Learning Specialist</h3>
+<h3 align="center">AI Engineer | Data Scientist | Machine Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=AI+Engineer;Machine+Learning+Specialist;Data+Scientist;Building+Smart+Systems;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+Specialist;Data+Scientist" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=youssefgomaa20&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0000FF&height=120&section=header"/>
 </p>
 
 ---
@@ -22,16 +20,22 @@
 
 ## 🧠 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Passionate+AI+Engineer;Building+Intelligent+Systems;Loving+Data+and+Machine+Learning" />
-</p>
-
-```diff
-+ AI Engineer passionate about solving real-world problems  
+```diff id="about1"
++ AI Engineer focused on real-world solutions  
 + Strong in Machine Learning & Data Science  
-+ Building intelligent systems, not just simple projects  
-! Currently learning Deep Learning & System Design  
++ Building clean and scalable AI systems  
+! Currently improving Deep Learning skills  
 ```
+
+---
+
+<!-- ================= SKILLS ================= -->
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,html,css,cpp" />
+</p>
 
 ---
 
@@ -39,16 +43,10 @@
 
 ## ⚡ What I Do
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,html,css,cpp" />
-</p>
-
-```yaml
-Machine Learning Models
-Data Analysis & Visualization
-AI Systems (Chatbots & Prediction Models)
-Full Stack Development
-```
+* 🧠 Machine Learning Models
+* 📊 Data Analysis & Visualization
+* 🤖 AI Systems (Prediction & Automation)
+* 🌐 Full Stack Development
 
 ---
 
@@ -58,24 +56,14 @@ Full Stack Development
 
 <p align="center">
   <a href="https://wa.me/201150187774">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/youssefgomaa55">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/youssef-gomaa11/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-<!-- ================= ACTIVITY GRAPH ================= -->
-
-## ⚡ Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefgomaa20&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -85,8 +73,8 @@ Full Stack Development
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefgomaa20&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefgomaa20&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefgomaa20&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefgomaa20&theme=github-dark&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -96,7 +84,7 @@ Full Stack Development
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefgomaa20&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefgomaa20&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -104,7 +92,7 @@ Full Stack Development
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0000FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=100&section=footer"/>
 </p>
 
 ---
@@ -112,5 +100,5 @@ Full Stack Development
 ## ⭐ Support
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=400&lines=Give+this+repo+a+star;Follow+for+more+projects" />
+  ⭐ If you like my work, consider following me
 </p>
