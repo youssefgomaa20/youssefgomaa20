@@ -64,25 +64,6 @@
 
 </table>
 
-<!-- ================= SOCIAL ================= -->
-
-## 🛠️ Languages & Tools  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,cpp" />
-</p>
-
-<!-- ================= STATS ================= -->
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefgomaa20&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefgomaa20&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <!-- ================= LANGUAGES ================= -->
 
 ## 🛠️ Languages & Tools
@@ -95,6 +76,18 @@
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
 ![Linux](https://skillicons.dev/icons?i=linux)
+
+---
+
+
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefgomaa20&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefgomaa20&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
