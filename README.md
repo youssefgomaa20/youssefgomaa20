@@ -66,18 +66,26 @@
 
 <!-- ================= SOCIAL ================= -->
 
-## 🌍 Connect With Me
+## 🌍 Connect With Me  
 
 <p align="center">
-  <a href="https://wa.me/201150187774">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp"/>
-  </a>
-  <a href="https://facebook.com/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook"/>
-  </a>
-  <a href="YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=400&lines=Let's+Connect+Together;Open+for+Opportunities" />
+</p>
+
+<p align="center">
+
+<a href="https://wa.me/201150187774">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
+</a>
+
+<a href="https://www.facebook.com/youssefgomaa55">
+  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000"/>
+</a>
+
+<a href="https://www.linkedin.com/in/youssef-gomaa11/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+</a>
+
 </p>
 
 ---
@@ -87,7 +95,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c++,js,html,css," />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css," />
 </p>
 
 ---
