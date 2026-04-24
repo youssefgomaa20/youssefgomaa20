@@ -1,38 +1,120 @@
-# Hi 👋, I'm Youssef Gomaa
+<!-- ================= HEADER ================= -->
 
-💻 Computer Science Student  
-🚀 Frontend & Backend Developer  
-📍 Based in Egypt  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=160&section=header&text=Hi%20I'm%20Youssef%20Gomaa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+<h3 align="center">
+  🤖 AI Engineer | Data Science | Machine Learning
+</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Youssef+Gomaa;AI+Engineer+%F0%9F%A4%96;Machine+Learning+Building+Smart+Systems" />
+</p>
 
-## 🧑‍💻 About Me
-- 🎓 Studying Computer Science
-- 💡 Interested in Web Development & AI
-- 🔥 Currently working on real projects
-- 📚 Learning advanced backend & system design
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=youssefgomaa20&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
----
+<!-- ================= ROBOT ANIMATION ================= -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="140"/>
+</p>
+
+<!-- ================= ABOUT ================= -->
+
+## 🧠 About Me  
+
+<table align="center">
+<tr>
+
+<td align="center" width="45%">
+  
+<img src="https://img.shields.io/badge/🚀-AI%20-00F7FF?style=for-the-badge"/>
+
+<br/><br/>
+
+<span>Solving real-world problems with intelligent systems</span>
+
+</td>
+
+<td align="center" width="45%">
+
+<img src="https://img.shields.io/badge/📊-Data%20Science-0077FF?style=for-the-badge"/>
+
+<br/><br/>
+
+<span>Transforming data into meaningful insights</span>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="45%">
+
+<img src="https://img.shields.io/badge/⚡-Machine%20Learning-00C853?style=for-the-badge"/>
+
+<br/><br/>
+
+<span>Building scalable and efficient ML models</span>
+
+</tr>
+
+</table>
+
+<!-- ================= SOCIAL ================= -->
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](YOUR_LINK)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/youssefgomaa55?locale=ar_AR)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_youssef_gomaa11/?hl=ar)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/youssef-gomaa11/)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/201150187774)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:youssefgomaa780@gmail.com)
+
+<!-- ================= STATS ================= -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefgomaa20&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefgomaa20&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
+<!-- ================= LANGUAGES ================= -->
+
 ## 🛠️ Languages & Tools
+
 ![Python](https://skillicons.dev/icons?i=python)
-![JS](https://skillicons.dev/icons?i=js)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![JavaScript](https://skillicons.dev/icons?i=js)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![C++](https://skillicons.dev/icons?i=cpp)
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
 
-## 📊 GitHub Stats
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefgomaa20&show_icons=true&theme=radical)
+<!-- ================= GOALS ================= -->
+
+## 🎯 Current Goals
+
+* 🔥 Build strong AI projects
+* 📚 Master Deep Learning
 
 ---
 
-## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefgomaa20&layout=compact&theme=radical)
+<!-- ================= END ================= -->
+
+## ⭐ Support
+
+If you like my work, give a ⭐ and follow 🚀
