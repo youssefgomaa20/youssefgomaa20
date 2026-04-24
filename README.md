@@ -72,43 +72,29 @@
   <sub>🤖 Open for AI & Data Science Opportunities</sub>
 </p>
 
-<table align="center">
-<tr>
+<p align="center">
 
-<td align="center" width="25%">
+<!-- WhatsApp -->
 <a href="https://wa.me/201150187774">
-<img src="https://img.shields.io/badge/-WhatsApp-0A0A0A?style=for-the-badge&logo=whatsapp&logoColor=00F7FF"/>
-<br/>
-<sub>Chat</sub>
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-0A0A0A?style=for-the-badge&logo=whatsapp&logoColor=00F7FF&labelColor=000000&color=00F7FF"/>
 </a>
-</td>
 
-<td align="center" width="25%">
+<!-- Facebook -->
 <a href="https://www.facebook.com/youssefgomaa55">
-<img src="https://img.shields.io/badge/-Facebook-0A0A0A?style=for-the-badge&logo=facebook&logoColor=00F7FF"/>
-<br/>
-<sub>Profile</sub>
+  <img src="https://img.shields.io/badge/Facebook-Profile-0A0A0A?style=for-the-badge&logo=facebook&logoColor=00F7FF&labelColor=000000&color=00F7FF"/>
 </a>
-</td>
 
-<td align="center" width="25%">
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/youssef-gomaa11/">
-<img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-<br/>
-<sub>Connect</sub>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F7FF&labelColor=000000&color=00F7FF"/>
 </a>
-</td>
 
-<td align="center" width="25%">
+<!-- Instagram -->
 <a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/-Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
-<br/>
-<sub>Follow</sub>
+  <img src="https://img.shields.io/badge/Instagram-Follow-0A0A0A?style=for-the-badge&logo=instagram&logoColor=00F7FF&labelColor=000000&color=00F7FF"/>
 </a>
-</td>
 
-</tr>
-</table>
+</p>
 
 <!-- ================= STATS ================= -->
 
