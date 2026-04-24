@@ -26,23 +26,33 @@
 ## 🧠 About Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=450&lines=AI+Engineer;Machine+Learning;Data+Science" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=450&lines=AI+Engineer;Machine+Learning+Specialist;Data+Science+Enthusiast" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=youssefgomaa20&theme=algolia&no-frame=true&row=1&column=4" />
 </p>
 
 <table align="center">
 <tr>
 
 <td align="center" width="45%">
+  
+<img src="https://img.shields.io/badge/🚀-AI%20Engineer-00F7FF?style=for-the-badge"/>
 
-<h3>🚀 AI Engineer</h3>
-<p><sub>Building real-world AI solutions</sub></p>
+<br/><br/>
+
+<span>Solving real-world problems with intelligent systems</span>
 
 </td>
 
 <td align="center" width="45%">
 
-<h3>📊 Data Science</h3>
-<p><sub>Data-driven insights & analysis</sub></p>
+<img src="https://img.shields.io/badge/📊-Data%20Science-0077FF?style=for-the-badge"/>
+
+<br/><br/>
+
+<span>Transforming data into meaningful insights</span>
 
 </td>
 
@@ -52,15 +62,21 @@
 
 <td align="center" width="45%">
 
-<h3>⚡ Machine Learning</h3>
-<p><sub>Smart predictive models</sub></p>
+<img src="https://img.shields.io/badge/⚡-Machine%20Learning-00C853?style=for-the-badge"/>
+
+<br/><br/>
+
+<span>Building scalable and efficient ML models</span>
 
 </td>
 
 <td align="center" width="45%">
 
-<h3>📚 Learning</h3>
-<p><sub>Deep Learning journey</sub></p>
+<img src="https://img.shields.io/badge/📚-Continuous%20Learning-FF9800?style=for-the-badge"/>
+
+<br/><br/>
+
+<span>Exploring Deep Learning & advanced AI</span>
 
 </td>
 
@@ -91,7 +107,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css," />
+  <img src="https://skillicons.dev/icons?i=python,sql,js,html,css,c++" />
 </p>
 
 ---
@@ -122,7 +138,6 @@
 ## 🎯 Current Goals
 
 * 🔥 Build strong AI projects
-* 💼 Get AI/Data Science internship
 * 📚 Master Deep Learning
 
 ---
