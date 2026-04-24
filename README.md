@@ -1,21 +1,15 @@
 <!-- ================= HEADER ================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=160&section=header&text=Hi%20I'm%20Youssef%20Gomaa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h3 align="center">
-  🤖 AI Engineer | Data Scientist | Machine Learning
-</h3>
+<h1 align="center">🤖 Youssef Gomaa</h1>
+<h3 align="center">AI Engineer | Data Scientist | Machine Learning Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Youssef+Gomaa;AI+Engineer+%F0%9F%A4%96;Machine+Learning+Specialist;Building+Smart+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=550&lines=AI+Engineer;Machine+Learning+Specialist;Data+Scientist;Building+Intelligent+Systems;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=youssefgomaa20&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=youssefgomaa20&label=Profile+Views&color=blue&style=flat" />
 </p>
-
 <!-- ================= ROBOT ANIMATION ================= -->
 
 <p align="center">
@@ -25,82 +19,33 @@
 
 <!-- ================= ABOUT ================= -->
 
-## 🧠 About Me  
+## 🧠 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=450&lines=AI+Engineer;Machine+Learning+Specialist;Data+Science+Enthusiast" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssefgomaa20&theme=algolia&no-frame=true&row=1&column=4" />
-</p>
-
-<table align="center">
-<tr>
-
-<td align="center" width="45%">
-  
-<h3>🚀 AI Engineer</h3>
-<p>Solving real-world problems with intelligent systems</p>
-
-</td>
-
-<td align="center" width="45%">
-
-<h3>📊 Data Science</h3>
-<p>Transforming data into meaningful insights</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="45%">
-
-<h3>⚡ Machine Learning</h3>
-<p>Building scalable and efficient ML models</p>
-
-</td>
-
-<td align="center" width="45%">
-
-<h3>📚 Continuous Learning</h3>
-<p>Exploring Deep Learning & advanced AI</p>
-
-</td>
-
-</tr>
-
-</table>
+```diff
++ Passionate AI Engineer focused on solving real-world problems  
++ Strong background in Machine Learning & Data Science  
++ Building intelligent systems, not just simple projects  
+! Currently improving in Deep Learning & advanced AI systems  
+```
 
 ---
 
-<!-- ================= WHAT I DO ================= -->
+<!-- ================= SKILLS ================= -->
 
-## ⚡ What I Do
+## 🛠️ Tech Stack
 
-* 🧠 Machine Learning Models
-* 📊 Data Analysis & Visualization
-* 🤖 AI Systems (Prediction & Automation)
-* 🌐 Full Stack Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,html,css,cpp" />
+</p>
 
 ---
 
-<!-- ================= SOCIAL ================= -->
+<!-- ================= ANIMATION ================= -->
 
-## 🌍 Connect With Me
+## ⚡ Activity
 
 <p align="center">
-  <a href="https://wa.me/201150187774">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/youssefgomaa55">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/youssef-gomaa11/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefgomaa20&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -110,8 +55,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefgomaa20&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefgomaa20&theme=github-dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefgomaa20&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefgomaa20&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -121,7 +66,34 @@
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefgomaa20&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefgomaa20&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- ================= PROJECT ================= -->
+
+## 🚀 Featured Project
+
+### 📊 Data Analysis System
+
+* Data cleaning, visualization & insights
+* Real-world datasets
+* Built using Python & Data Science tools
+
+---
+
+<!-- ================= CONTACT ================= -->
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://wa.me/201150187774">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp"/>
+  </a>
+  <a href="https://facebook.com/YOUR_PROFILE">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook"/>
+  </a>
 </p>
 
 ---
@@ -129,10 +101,15 @@
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0000FF&height=120&section=footer"/>
 </p>
 
 ---
+
+## ⭐ Final Note
+
+> I build intelligent systems that solve real problems.
+
 
 ## ⭐ Support
 
