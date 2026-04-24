@@ -25,10 +25,6 @@
 
 ## 🧠 About Me  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=youssefgomaa20&theme=algolia&no-frame=true&row=1&column=4" />
-</p>
-
 <table align="center">
 <tr>
 
