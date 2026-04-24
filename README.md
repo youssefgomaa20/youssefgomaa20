@@ -24,15 +24,54 @@
 
 <!-- ================= ABOUT ================= -->
 
-## 🧠 About Me
+## 🧠 About Me  
 
-* 🤖 AI Engineer passionate about solving real-world problems
-* 📊 Skilled in Data Science & Machine Learning
-* 💻 Strong background in Python & Web Development
-* 🚀 Building intelligent systems and AI applications
-* 📚 Currently learning Deep Learning & System Design
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=400&lines=AI+Engineer;Machine+Learning;Data+Science" />
+</p>
 
----
+<table>
+<tr>
+
+<td align="center" width="50%">
+  
+🚀 **AI Engineer**  
+<br/>
+Solving real-world problems  
+
+</td>
+
+<td align="center" width="50%">
+
+📊 **Data Science**  
+<br/>
+Data-driven insights  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+⚡ **Machine Learning**  
+<br/>
+Smart scalable models  
+
+</td>
+
+<td align="center" width="50%">
+
+📚 **Learning**  
+<br/>
+Deep Learning journey  
+
+</td>
+
+</tr>
+
+</table>
 
 <!-- ================= SOCIAL ================= -->
 
@@ -56,22 +95,8 @@
 
 ## 🛠️ Tech Stack
 
-### 🧠 AI & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
-</p>
-
-### 📊 Data Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css," />
 </p>
 
 ---
@@ -94,31 +119,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefgomaa20&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
-
-### 🤖 AI Chatbot
-
-* NLP-based chatbot
-* Smart real-time responses
-
----
-
-### 📊 Data Analysis Project
-
-* Data cleaning & visualization
-* Extracting insights
-
----
-
-### 🧠 Machine Learning Model
-
-* Predictive model using Scikit-learn
-* Optimized for accuracy
 
 ---
 
