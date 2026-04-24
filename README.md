@@ -21,12 +21,11 @@
 ---
 
 ## 🛠️ Languages & Tools
+![Python](https://skillicons.dev/icons?i=python)
+![JS](https://skillicons.dev/icons?i=js)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![JS](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
 ![C++](https://skillicons.dev/icons?i=cpp)
-![Flutter](https://skillicons.dev/icons?i=flutter)
 
 ---
 
